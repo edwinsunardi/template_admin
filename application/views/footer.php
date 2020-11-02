@@ -17,8 +17,15 @@
 <script type="text/javascript" src="<?php echo base_url();?>assets/plugins/jquery-validation/jquery.validate.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/plugins/bootstrap-switch/js/bootstrap-switch.min.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/plugins/jquery-validation/additional-methods.min.js"></script>
+
 <script type="text/javascript" src="<?php echo base_url();?>assets/adminLTE/js/adminlte.js"></script>
-<script type="text/javascript" src="<?php echo base_url();?>assets/adminLTE/js/demo.js"></script>
+
+<script type="text/javascript"src="<?php echo base_url();?>assets/plugins/summernote/summernote-bs4.min.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/plugins/codemirror/codemirror.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/plugins/codemirror/mode/css/css.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/plugins/codemirror/mode/xml/xml.js"></script>
+<script type="text/javascript" src="<?php echo base_url();?>assets/plugins/codemirror/mode/htmlmixed/htmlmixed.js"></script>
+<script type="text/javascript" type="text/javascript" src="<?php echo base_url();?>assets/adminLTE/js/demo.js"></script>
 <script type="text/javascript" src="<?php echo base_url();?>assets/plugins/vue/vue.js"></script>
 <script>
     var BASE_URL = "<?php echo base_url();?>";

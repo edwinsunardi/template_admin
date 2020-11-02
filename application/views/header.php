@@ -11,6 +11,10 @@
     <title><?php echo $title;?></title>
     <link rel="stylesheet" href="<?php echo base_url();?>assets/adminLTE/css/adminlte.min.css">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/codemirror/codemirror.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/codemirror/theme/monokai.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/summernote/summernote-bs4.min.css">
+    <link rel="stylesheet" href="<?php echo base_url();?>assets/plugins/simplemde/simplemde.min.css">
     <script type="text/javascript" src="<?php echo base_url();?>assets/plugins/jquery/jquery-3.5.1.min.js"></script>
 </head>
 <!-- <body class="hold-transition sidebar-mini">
